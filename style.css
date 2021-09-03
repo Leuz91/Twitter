@@ -1,0 +1,37 @@
+.contenu{
+	padding-top: 1%;
+	
+	margin-left: 37%;
+}
+#titre{
+	font-family: Proxima Nova, Extrablod;
+	font-size: 35px;
+}
+#form{
+	margin-top: -30px;
+}
+#user{
+	height: 60px;
+	width: 320px;
+	font-size : 17px;
+	opacity: 70%;
+}
+#password{
+	height: 60px;
+	width: 320px;
+	font-size : 17px;
+	opacity: 70%;
+}
+#button{
+	background-color: #8ed0f8;
+	color: white;
+	height: 50px;
+	width: 320px;
+	border-radius: 30px;
+	cursor:pointer;
+	border: none;
+}
+#alterne{
+	margin-left: 15px;
+	font-size : 17px;
+}
